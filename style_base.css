@@ -1,0 +1,134 @@
+/*Base*/
+@import url(https://fonts.googleapis.com/css?family=inter&display=swap);
+body {
+    background-color: white;
+    font-family: 'inter', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #03072D;
+}
+.navigation > a {
+    text-decoration: none;
+    color: gray;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-top: 33px;
+}
+.navigation > a:hover, .navigation > a:active {
+    color: black;
+    font-weight: bold;   
+}
+.navigation > a.active {
+    color: black;
+}
+.right_menu {
+    margin-left: auto;
+    margin-right: 0;
+}
+.myaccount > a {
+    text-decoration: none;
+    color: #F39200;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    display: inline-block;
+    border-color: #F39200;
+    border-style: solid;
+    padding: 10px;
+    font-weight: bold;
+    border-width: 2px; 
+    margin-top: 33px;  
+}
+.myaccount > a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #F39200;
+    padding: 10px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    display: inline-block;
+    border-color: #F39200;
+    border-style: solid;
+    font-weight: bold;
+    border-width: 2px; 
+}
+.menu {
+    display: flex;
+}
+.menu > .logo {
+    margin-right: 50px;
+}
+#sliderl {
+    color: #F39200;
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+#sliderh1 {
+    margin-top: 0;
+}
+.container_slider {
+    width: 325px;
+    height: 158px;
+}
+b {
+    color: rgb(97, 0, 105);
+}
+.language > select {
+    border-style: none;
+}
+.middle_menu {
+    display: flex;
+    justify-content: center;
+    width: 60.6237735%;
+}
+.logo {
+    width: 150px;
+    height: auto;
+    margin-top: 33px;
+    margin-left: 105px;
+}
+fieldset > .label {
+    margin-top: 15px;
+}
+fieldset > div > label {
+    font-weight: 600;
+}
+fieldset {
+    margin-top: 25px;
+}
+#submit {
+    text-decoration: none;
+    color: #F39200;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    display: inline-block;
+    border-color: #F39200;
+    border-style: solid;
+    padding: 10px;
+    font-weight: bold;
+    border-width: 2px; 
+    margin-top: 33px;
+    padding-right: 15%;
+    padding-left: 15%;
+}
+#submit:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #F39200;
+    padding: 10px;
+    padding-right: 15%;
+    padding-left: 15%;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    display: inline-block;
+    border-color: #F39200;
+    border-style: solid;
+    font-weight: bold;
+    border-width: 2px; 
+    cursor: pointer;
+}
