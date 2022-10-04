@@ -19,7 +19,7 @@
             <a href="/news.php">News</a>
             <a href="/process.php">Process</a>
             <a href="/contact.php">Contact</a>
-            <a href="/toolkit/toolkit.php"></a>
+            <a href="/toolkit/toolkit.php">ToolKit</a>
         </div>
         </nav>
         <div class="right_menu">
