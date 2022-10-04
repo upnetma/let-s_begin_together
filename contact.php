@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include './vendor/header.php'?>
 <h1>Contact Us</h1>
 <div>
     <fieldset>
