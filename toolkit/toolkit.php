@@ -1,4 +1,4 @@
-<?php  include './vendor/header.html' ?>
+<?php  include '../vendor/header.html' ?>
 <h1>toolkit</h1>
 <ul>
     <li>
