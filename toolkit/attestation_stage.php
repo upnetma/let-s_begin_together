@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Attestation de Stage</title>
-    <link rel="stylesheet" href="style_base.css">
+<?php include './vendor/header.php' ?>
     <script>
         function myFunction() {
           document.getElementById("demo").innerHTML = document.getElementById("demo2").innerHTML;
         }
         </script>
-</head>
 <body>
-    <php><?php include './vendor/header.php' ?></php>
+    <?php include './vendor/header.php' ?>
     <h1>Formulaire</h1>
-    <form method="POST" action="/welcome.php" enctype="multipart/form-data">
+    <form method="POST" action="/toolkit/welcome.php" enctype="multipart/form-data">
         <fieldset>
             <legend>Organisme d'acceuil 1/4</legend>
             <div class="label">
