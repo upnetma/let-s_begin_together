@@ -1,11 +1,10 @@
-<?php include './vendor/header.html' ?>
+<?php include '/vendor/header.html' ?>
     <script>
         function myFunction() {
           document.getElementById("demo").innerHTML = document.getElementById("demo2").innerHTML;
         }
         </script>
 <body>
-    <?php include './vendor/header.php' ?>
     <h1>Formulaire</h1>
     <form method="POST" action="/toolkit/welcome.php" enctype="multipart/form-data">
         <fieldset>
