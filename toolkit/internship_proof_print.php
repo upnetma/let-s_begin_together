@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Internship Proof</title>
     <link rel="stylesheet" href="style_base.css">
 </head>
 <body>
@@ -82,5 +82,5 @@
         <p class="signature" style="margin-top: 60px;"><b><?php echo $_POST['fname-org']; echo ' '; echo $_POST['lname-org']; echo ', ' ;echo $_POST['functionic']; ?></b></p>
     </div>
 </body>
-<?php include '../vendor/footer.html'?>
+<?php include '../vendor/footer_pdf.html'?>
 </html>
