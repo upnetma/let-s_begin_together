@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style_base.css">
 </head>
 <body>
-    <?php include '../vendor/header.html'?>
+<?php //include '../vendor/header.html'?>
     <div>
     </div>
     <div class="" style="text-align: right;">
@@ -82,4 +82,5 @@
         <p class="signature" style="margin-top: 60px;"><b><?php echo $_POST['fname-org']; echo ' '; echo $_POST['lname-org']; echo ', ' ;echo $_POST['functionic']; ?></b></p>
     </div>
 </body>
+<?php include '../vendor/footer.html'?>
 </html>

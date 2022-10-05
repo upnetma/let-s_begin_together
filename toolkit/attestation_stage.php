@@ -6,7 +6,7 @@
         </script>
 <body>
     <h1>Formulaire</h1>
-    <form method="POST" action="/toolkit/welcome.php" enctype="multipart/form-data">
+    <form method="POST" action="/toolkit/internship_proof_print.php" enctype="multipart/form-data">
         <fieldset>
             <legend>Organisme d'acceuil 1/4</legend>
             <div class="label">
