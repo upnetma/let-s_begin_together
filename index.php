@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style_base.css">
     <link rel="shortcut icon" href="/src/img/brand/favicon.ico" type="image/x-icon">
 </head>
-<?php include './vendor/header.php' ?>
+<?php include './vendor/header.html' ?>
 <body>
     <div class="container_slider">
         <legend id="sliderl">MEILLEUR OUTIL POUR LES ENTREPRENEURS</legend>

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style_base.css">
 </head>
 <body>
-    <?php include './vendor/header.php'?>
+    <?php include './vendor/header.html'?>
     <div>
     </div>
     <div class="" style="text-align: right;">

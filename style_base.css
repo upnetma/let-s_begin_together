@@ -145,6 +145,7 @@ fieldset {
   .dropdown {
     position: relative;
     display: inline-block;
+    text-decoration: none;
   }
   
   /* Dropdown Content (Hidden by Default) */
@@ -172,4 +173,4 @@ fieldset {
   .dropdown:hover .dropdown-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color: #d88200;}
+  .dropdown:hover .dropbtn {background-color: transparent;}

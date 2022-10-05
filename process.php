@@ -1,2 +1,2 @@
-<?php include './vendor/header.php'?>
+<?php include './vendor/header.html'?>
 <h1>Process</h1>

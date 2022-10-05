@@ -1,4 +1,4 @@
-<?php include './vendor/header.php' ?>
+<?php include './vendor/header.html' ?>
     <script>
         function myFunction() {
           document.getElementById("demo").innerHTML = document.getElementById("demo2").innerHTML;
